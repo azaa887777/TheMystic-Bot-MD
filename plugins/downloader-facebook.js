@@ -43,10 +43,10 @@ await conn.sendFile(m.chat, url3, 'error.mp4', '*HERE U GO*', m)
 console.log('5 ' + err5)    
 try {
 const { result } = await facebookdl(args[0]).catch(async _ => await facebookdlv2(args[0])).catch(async _ => await savefrom(args[0]))
-for (const { url, isVideo } of result.reverse()) await conn.sendFile(m.chat, url, `facebook.${!isVideo ? 'bin' : 'mp4'}`, '*HERE U GO*', m)    
+for (const { url, isVideo } of result.reverse()) await conn.sendFile(m.chat, url, `facebook.${!isVideo ? 'bin' : 'mp4'}`, '*Hahowa l video dyalk;)*', m)    
 } catch (err6) {
 console.log('6 ' + err6)    
-throw `*عذراً هناك خطأ*\n\nاعلمنا على صفحتنا اذا استمر نفس الخطأ:\nhttps://www.facebook.com/profile.php?id=100090780515885`
+throw `*عذراً هناك خطأ*\n\nاعلمنا على صفحتنا اذا استمر نفس الخطأ:\nhttps://www.instagram.com/mh7__x`
 }}}}}}}
 handler.command = /^(facebook|fb|facebookdl|fbdl|facebook2|fb2|facebookdl2|fbdl2|facebook3|fb3|facebookdl3|fbdl3|facebook4|fb4|facebookdl4|fbdl4|facebook5|fb5|facebookdl5|fbdl5)$/i
 export default handler
