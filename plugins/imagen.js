@@ -13,9 +13,9 @@ let handler = async (m, { conn, isOwner, usedPrefix, command, args }) => {
     } else throw query;
     
     try {
-        m.reply("متابعتك لي سوف تحفزني للاستمرار في هذا m.instagram.com/mh7__x");
+        m.reply("متابعتك لي سوف تحفزني للاستمرار في هذا\nhttp://m.instagram.com/mh7__x");
         await Draw(text).then((img) => {
-            conn.sendFile(m.chat, img, text, `instagram.com/noureddine_ouafy*\n"${text}"`, m);
+            conn.sendFile(m.chat, img, text, `http://m.instagram.com/mh7__x*\n"${text}"`, m);
         });
     } catch (e) {
         throw 'Oh snap! Something went wrong while generating the image. 🥺';
