@@ -13,8 +13,8 @@ const handler = async (m, {conn, args, command, usedPrefix}) => {
 *𝙴𝙹𝙴𝙼𝙿𝙻𝙾: .ig* *https://www.instagram.com/reel/Cc0NuYBg8CR/?utm_source=ig_web_copy_link*`;
   m.reply(`*Sbr ashbi mlk ax tab3k?*
 Aji dir lia follow hna b3da :) >> https://www.instagram.com/mh7__x`);
-  /*try {
-    const apiUrll = `https://api.betabotz.org/api/download/igdowloader?url=${encodeURIComponent(args[0])}&apikey=2QmZxqM5`;
+  try {
+    const apiUrll = `https://api.betabotz.org/api/download/igdowloader?url=${encodeURIComponent(args[0])}&apikey=bot-secx3`;
     const responsel = await axios.get(apiUrll);
     const resultl = responsel.data;
     for (const item of resultl.message) {
@@ -23,9 +23,9 @@ Aji dir lia follow hna b3da :) >> https://www.instagram.com/mh7__x`);
       conn.sendFile(m.chat, item._url, null, tXXxt, m);
       await new Promise((resolve) => setTimeout(resolve, 10000));
     }
-  } catch {*/    
+  } catch {    
   try {
-    const datTa = await instagram.download(args[0]);
+    const datTa = await instagram.v1(args[0]);
     for (const urRRl of datTa) {
       const shortUrRRl = await (await fetch(`https://tinyurl.com/api-create.php?url=${args[0]}`)).text();
       const tXXxt = `🔗 *Url:* ${shortUrRRl}`.trim();
@@ -53,12 +53,12 @@ Aji dir lia follow hna b3da :) >> https://www.instagram.com/mh7__x`);
             const txt1 = `🔗 *Url:* ${shortUrl1}`.trim();
             await conn.sendFile(m.chat, videoig, 'error.mp4', txt1, m);
           } catch {
-            throw `*[❗error❗] *`;
+            throw `*[❗ERROR❗]*`;
           }
         }
       }
     }
-  //}
+  }
 };
 handler.command = /^(instagramdl|instagram|igdl|ig|instagramdl2|instagram2|igdl2|ig2|instagramdl3|instagram3|igdl3|ig3)$/i;
 export default handler;
