@@ -1,1 +1,94 @@
-function _0x29e5(){const _0x321d6c=['*\x20https://fb.watch/fOTpgn6UFQ/','Eweue','RjePV','length','reply','mp4','1116978gvduYm','HVTKS','https://raw.githubusercontent.com/OS-OFC/TERMOS-WABOT/main/2/4/2/728/223/1333/12.js','OMxPj','VrIja','*التحميل\x20من\x20فيسبوك,\x20مثال:\x20','&url=','video','result','catch','822640IpztkM','eerree','json','*==*','7255850AVkXYX','command','url','3152604Yuipln','*𝙴𝚁𝚁𝙾R*','https://latam-api.vercel.app/api/facebookdl?apikey=brunosobrino&q=','match','tJZBl','KchNn','1972836OBjIhR','error.mp4','1040356CvnDYo','chat','urls','download','log','eNctS','5cXilUx','lTDXW','sendFile','12772832EbQUrn','HfEWY','Modeai','xzGrk'];_0x29e5=function(){return _0x321d6c;};return _0x29e5();}const _0x529e85=_0x17ba;(function(_0x7ede9e,_0x56c48e){const _0x1ac499=_0x17ba,_0x5d182f=_0x7ede9e();while(!![]){try{const _0x43aa2f=parseInt(_0x1ac499(0x185))/(-0xbed+-0x1*-0xaca+0x124)+parseInt(_0x1ac499(0x18f))/(0x1046*0x1+0xfc1+0x7*-0x493)+-parseInt(_0x1ac499(0x19c))/(-0x2*-0x1189+0x9eb+-0x2cfa)+parseInt(_0x1ac499(0x19e))/(-0x9*-0x349+0x5*-0x666+0x5*0x7d)*(-parseInt(_0x1ac499(0x1a4))/(0xca5+0x184e+0x1*-0x24ee))+parseInt(_0x1ac499(0x196))/(-0x1f*0x9e+0x2*0x3a+0x12b4)+parseInt(_0x1ac499(0x193))/(-0x1*0x2ce+-0x1*-0x1cda+-0x1a05)+-parseInt(_0x1ac499(0x1a7))/(-0x9ef+-0x15*0x1cb+0x2*0x17cf);if(_0x43aa2f===_0x56c48e)break;else _0x5d182f['push'](_0x5d182f['shift']());}catch(_0x4ffbb7){_0x5d182f['push'](_0x5d182f['shift']());}}}(_0x29e5,-0x7861*-0x15+-0x44ba8+-0x1*-0x3359c));function _0x17ba(_0x4a508c,_0x3b834f){const _0x305f0e=_0x29e5();return _0x17ba=function(_0x53d7d7,_0xb1dfb1){_0x53d7d7=_0x53d7d7-(-0x1a6f+0x1f5+0x19fe);let _0x1d72ff=_0x305f0e[_0x53d7d7];return _0x1d72ff;},_0x17ba(_0x4a508c,_0x3b834f);}import _0x307eff from'api-dylux';import _0x5965a4 from'node-fetch';import{savefrom,facebookdl,facebookdlv2}from'@bochilteam/scraper';import _0x2bf371 from'fb-downloader-scrapper';import{facebook}from'@xct007/frieren-scraper';let handler=async(_0x535acb,{conn:_0x5df7ab,args:_0x252ee4,command:_0x43ec8d,usedPrefix:_0x2df62d})=>{const _0x142f7f=_0x17ba,_0x178b17={'Eweue':function(_0x260b07,_0x17a69f){return _0x260b07(_0x17a69f);},'RjePV':function(_0x2a93de,_0x5c76ec){return _0x2a93de==_0x5c76ec;},'mCNOT':function(_0x20269b,_0x4a602d){return _0x20269b+_0x4a602d;},'xzGrk':function(_0xed66d5,_0x5aca5d){return _0xed66d5>_0x5aca5d;},'HfEWY':_0x142f7f(0x19d),'HVTKS':function(_0x4cd532,_0x5bac86){return _0x4cd532+_0x5bac86;},'yCGVP':function(_0x6ba7d8,_0x426cb3){return _0x6ba7d8==_0x426cb3;},'zpBiB':function(_0x3cc3fa,_0x52b80f){return _0x3cc3fa+_0x52b80f;},'VrIja':function(_0x1c116d,_0xda31a5){return _0x1c116d+_0xda31a5;},'tJZBl':function(_0x194515,_0x2a5b4d){return _0x194515(_0x2a5b4d);},'KchNn':function(_0x1e41cb,_0x5e3751){return _0x1e41cb+_0x5e3751;},'OMxPj':'bin','lTDXW':_0x142f7f(0x184),'eNctS':_0x142f7f(0x187)};let _0x221684=await(await _0x178b17['Eweue'](_0x5965a4,_0x142f7f(0x187)))[_0x142f7f(0x191)]();if(_0x178b17['RjePV'](_0x221684[_0x142f7f(0x1a9)],0x83b+0x319*0xb+0x1*-0x2986)){if(!_0x252ee4[0x2127+0x17*0x76+0x17*-0x1e7])throw _0x142f7f(0x18a)+(_0x2df62d+_0x43ec8d)+'*\x20https://fb.watch/fOTpgn6UFQ/';if(!_0x252ee4[-0x21*-0x90+-0x37*0x22+-0xb42][_0x142f7f(0x199)](/www.facebook.com|fb.watch/g))throw'*التحميل\x20من\x20فيسبوك,\x20مثال:\x20'+_0x178b17['mCNOT'](_0x2df62d,_0x43ec8d)+_0x142f7f(0x1ab);try{_0x535acb[_0x142f7f(0x1af)]('*جاري\x20التحميل\x20انتظر\x20قليلا\x20...*');const _0x780665=await facebook['v1'](_0x252ee4[0x5ea+0x1*0xf94+0x312*-0x7]);let _0xf15131='';_0x780665['urls']&&_0x178b17[_0x142f7f(0x1aa)](_0x780665['urls'][_0x142f7f(0x1ae)],0x1*-0x4ba+-0x61b+-0x2f*-0x3b)&&(_0xf15131=''+(_0x780665[_0x142f7f(0x1a0)][0x8ae*-0x4+-0xb1*0x1a+-0x545*-0xa]?.['hd']||_0x780665[_0x142f7f(0x1a0)][0xe*0x228+-0xddb+-0x1054]?.['sd']||'')),_0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0xf15131,_0x178b17[_0x142f7f(0x1a8)],'',_0x535acb);}catch(_0x2015e8){console[_0x142f7f(0x1a2)](_0x178b17['HVTKS']('1\x20',_0x2015e8));try{let _0xaec190=await _0x5965a4('https://api.lolhuman.xyz/api/facebook?apikey='+lolkeysapi+_0x142f7f(0x18b)+_0x252ee4[-0x22*-0x83+-0x8c4+-0x1a*0x55]),_0x44090e=await _0xaec190[_0x142f7f(0x191)](),_0x160d2a=_0x44090e[_0x142f7f(0x18d)][0x273*-0x1+0x1*-0x1b23+0x1d96];if(_0x178b17['yCGVP'](_0x160d2a,'')||!_0x160d2a||_0x160d2a==null)_0x160d2a=_0x44090e[_0x142f7f(0x18d)][-0x2e*0x1+0x1*-0x1a93+0x1ac2];_0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0x160d2a,_0x178b17['HfEWY'],_0x142f7f(0x192),_0x535acb);}catch(_0xc37671){console[_0x142f7f(0x1a2)](_0x178b17['zpBiB']('2\x20',_0xc37671));try{let _0x280112=await _0x307eff['fbdl'](_0x252ee4[-0x54b+0x1ca5*0x1+-0x175a]),_0x31c5a8=await _0x280112['data'][-0x10ea+0x1*0x1897+-0x7ad][_0x142f7f(0x195)];await _0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0x31c5a8,_0x178b17[_0x142f7f(0x1a8)],'',_0x535acb);}catch(_0x15f1f4){console[_0x142f7f(0x1a2)](_0x178b17[_0x142f7f(0x186)]('3\x20',_0x15f1f4));try{let _0x509d0f=await _0x2bf371(_0x252ee4[-0x1*-0x1e11+-0x1d6a+-0x1*0xa7]);for(let _0xc8335c of _0x509d0f[_0x142f7f(0x1a1)]){let _0x2f2071=_0xc8335c[_0x142f7f(0x195)];await _0x5df7ab['sendFile'](_0x535acb[_0x142f7f(0x19f)],_0x2f2071,_0x178b17[_0x142f7f(0x1a8)],'',_0x535acb);}}catch(_0x35cdc6){console[_0x142f7f(0x1a2)](_0x178b17[_0x142f7f(0x189)]('4\x20',_0x35cdc6));try{let _0x497d4e=await _0x178b17[_0x142f7f(0x19a)](_0x5965a4,'https://api.violetics.pw/api/downloader/facebook?apikey=beta&url='+_0x252ee4[0x7*0x2b9+-0x115b+-0x2*0xda]),_0x26382a=await _0x497d4e[_0x142f7f(0x191)](),_0x42870c=''+(_0x26382a[_0x142f7f(0x18d)]['hd'][_0x142f7f(0x195)]||_0x26382a[_0x142f7f(0x18d)]['sd'][_0x142f7f(0x195)]);await _0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0x42870c,_0x142f7f(0x19d),'',_0x535acb);}catch(_0x2f7ec1){console[_0x142f7f(0x1a2)]('5\x20'+_0x2f7ec1);try{let _0x18b6af=await _0x178b17[_0x142f7f(0x1ac)](_0x5965a4,_0x142f7f(0x198)+_0x252ee4[-0x2c*0x1d+-0x1*-0x154f+0x571*-0x3]),_0x220f3e=await _0x18b6af['json'](),_0x451d01=await _0x220f3e[_0x142f7f(0x18c)];await _0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0x451d01,_0x178b17['HfEWY'],'',_0x535acb);}catch(_0x567743){console[_0x142f7f(0x1a2)](_0x178b17[_0x142f7f(0x19b)]('6\x20',_0x567743));try{const {result:_0x88a8b5}=await _0x178b17[_0x142f7f(0x19a)](facebookdl,_0x252ee4[-0x94a+0x14e7*-0x1+0x1e31])['catch'](async _0x2f50c2=>await facebookdlv2(_0x252ee4[0xd38+0x17*0x45+0x679*-0x3]))[_0x142f7f(0x18e)](async _0x569dc2=>await savefrom(_0x252ee4[-0xa24+-0x7af*-0x3+-0xce9]));for(const {url:_0x505bea,isVideo:_0x30e5f6}of _0x88a8b5['reverse']())await _0x5df7ab[_0x142f7f(0x1a6)](_0x535acb[_0x142f7f(0x19f)],_0x505bea,'facebook.'+(!_0x30e5f6?_0x178b17[_0x142f7f(0x188)]:_0x178b17[_0x142f7f(0x1a5)]),'',_0x535acb);}catch(_0x15ead2){console[_0x142f7f(0x1a2)]('7\x20'+_0x15ead2);throw _0x142f7f(0x197);}}}}}}}}else{if(_0x178b17[_0x142f7f(0x1ad)](_0x221684['Modeai'],-0x10fd*-0x1+0x1*-0x65+-0xf08)){let _0x3e2a9b=await(await _0x5965a4(_0x178b17[_0x142f7f(0x1a3)]))['json'](),_0x4c851a=_0x3e2a9b[_0x142f7f(0x190)];_0x535acb[_0x142f7f(0x1af)](_0x4c851a);}}};handler[_0x529e85(0x194)]=/^(facebook|fb|facebookdl|fbdl|facebook2|fb2|facebookdl2|fbdl2|facebook3|fb3|facebookdl3|fbdl3|facebook4|fb4|facebookdl4|fbdl4|facebook5|fb5|facebookdl5|fbdl5)$/i;export default handler;
+import fg from 'api-dylux';
+import fetch from 'node-fetch';
+import {savefrom, facebookdl, facebookdlv2} from '@bochilteam/scraper';
+import fbDownloader from 'fb-downloader-scrapper';
+import {facebook} from '@xct007/frieren-scraper';
+import axios from 'axios';
+const handler = async (m, {conn, args, command, usedPrefix}) => {
+  if (!args[0]) throw `
+
+   Had cmd khasss b Instagram :)
+   Dir lia follow b3da hna?
+   www.instagram.com/mh7__x
+   
+*𝙴𝙹𝙴𝙼𝙿𝙻𝙾: .ig* *https://www.instagram.com/reel/Cc0NuYBg8CR/?utm_source=ig_web_copy_link*`;
+  m.reply(`*Sbr ashbi mlk ax tab3k?*
+Aji dir lia follow hna b3da :) >> https://www.instagram.com/mh7__x`);
+    const d2ata = await facebook.v1(args[0]);
+    let r2es = '';
+    if (d2ata.urls && d2ata.urls.length > 0) {
+      r2es = `${d2ata.urls[0]?.hd || d2ata.urls[1]?.sd || ''}`;
+    }
+    conn.sendFile(m.chat, r2es, 'error.mp4', `*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*`, m);
+  } catch (err1) {
+    try {
+      const req = await igeh(args[0]);
+      conn.sendMessage(m.chat, {video: {url: req.url_list}}, m);
+    } catch (err1_2) {
+      try {
+        const Rres = await fetch(`https://api.lolhuman.xyz/api/facebook?apikey=${lolkeysapi}&url=${args[0]}`);
+        const Jjson = await Rres.json();
+        let VIDEO = Jjson.result[0];
+        if (VIDEO == '' || !VIDEO || VIDEO == null) VIDEO = Jjson.result[1];
+        conn.sendFile(m.chat, VIDEO, 'error.mp4', `*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*`, m);
+      } catch (err2) {
+        try {
+          const ress = await fg.fbdl(args[0]);
+          const urll = await ress.data[0].url;
+          await conn.sendFile(m.chat, urll, 'error.mp4', '*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*', m);
+        } catch (err3) {
+          try {
+            const res = await fbDownloader(args[0]);
+            for (const result of res.download) {
+              const ur = result.url;
+              await conn.sendFile(m.chat, ur, 'error.mp4', '*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*', m);
+            }
+          } catch (err4) {
+            try {
+              const res3 = await fetch(`https://latam-api.vercel.app/api/facebookdl?apikey=nekosmic&q=${args[0]}`);
+              const json = await res3.json();
+              const url3 = await json.video;
+              await conn.sendFile(m.chat, url3, 'error.mp4', '*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*', m);
+            } catch (err5) {
+              try {
+                const {result} = await facebookdl(args[0]).catch(async (_) => await facebookdlv2(args[0])).catch(async (_) => await savefrom(args[0]));
+                for (const {url, isVideo} of result.reverse()) await conn.sendFile(m.chat, url, `facebook.${!isVideo ? 'bin' : 'mp4'}`, '*𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾*', m);
+              } catch (err6) {
+                throw `*[❗𝐈𝐍𝐅𝐎❗]*`;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+};
+handler.command = /^(facebook|fb|facebookdl|fbdl|facebook2|fb2|facebookdl2|fbdl2|facebook3|fb3|facebookdl3|fbdl3|facebook4|fb4|facebookdl4|fbdl4|facebook5|fb5|facebookdl5|fbdl5)$/i;
+export default handler;
+
+async function igeh(url_media) {
+  return new Promise(async (resolve, reject)=>{
+    const BASE_URL = 'https://instasupersave.com/';
+    try {
+      const resp = await axios(BASE_URL);
+      const cookie = resp.headers['set-cookie']; // get cookie from request
+      const session = cookie[0].split(';')[0].replace('XSRF-TOKEN=', '').replace('%3D', '');
+      const config = {method: 'post', url: `${BASE_URL}api/convert`, headers: {'origin': 'https://instasupersave.com', 'referer': 'https://instasupersave.com/pt/', 'sec-fetch-dest': 'empty', 'sec-fetch-mode': 'cors', 'sec-fetch-site': 'same-origin', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52', 'x-xsrf-token': session, 'Content-Type': 'application/json', 'Cookie': `XSRF-TOKEN=${session}; instasupersave_session=${session}`}, data: {url: url_media}};
+      axios(config).then(function(response) {
+        const ig = [];
+        if (Array.isArray(response.data)) {
+          response.data.forEach((post) => {
+            ig.push(post.sd === undefined ? post.thumb : post.sd.url);
+          });
+        } else {
+          ig.push(response.data.url[0].url);
+        }
+        resolve({results_number: ig.length, url_list: ig});
+      }).catch(function(error) {
+        reject(error.message);
+      });
+    } catch (e) {
+      reject(e.message);
+    }
+  });
+}
