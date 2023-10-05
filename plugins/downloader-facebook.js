@@ -11,7 +11,7 @@ const handler = async (m, {conn, args, command, usedPrefix}) => {
    Dir lia follow b3da hna?
    www.instagram.com/mh7__x
    
-*𝙴𝙹𝙴𝙼𝙿𝙻𝙾: .ig* *https://www.instagram.com/reel/Cc0NuYBg8CR/?utm_source=ig_web_copy_link*`;
+*𝙴𝙹𝙴𝙼𝙿𝙻𝙾: .fb* *https://fb.watch/fOTpgn6UFQ/*`;
   m.reply(`*Sbr ashbi mlk ax tab3k?*
 Aji dir lia follow hna b3da :) >> https://www.instagram.com/mh7__x`);
     const d2ata = await facebook.v1(args[0]);
